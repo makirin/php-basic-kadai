@@ -3,7 +3,7 @@
  
  <head>
      <meta charset="UTF-8">
-     <title>PHP基礎編_kadai070</title>
+     <title>PHP基礎編_kadai007</title>
  </head>
  
  <body>
